@@ -1,2 +1,1 @@
-# 2048-Game-with-A-Search-Algorithm
- A* Search Algorithm used to solve the game 2048 
+This project is a applicatioon that uses the A* search algorithm to solve the 2048 game.
